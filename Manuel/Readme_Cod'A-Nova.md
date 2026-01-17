@@ -18,47 +18,6 @@ This template provides a simple, accessible, and responsive navigation layout wi
 - CSS3 (Flexbox)
 - Mobile-first approach
 
-## File Structure
-# Codanova - Simple Responsive Navigation Menu
-
-A clean, mobile-first navigation menu built with pure HTML5 and CSS3.  
-This template provides a simple, accessible, and responsive navigation layout without any JavaScript dependency.
-
-## Features
-- Mobile-first design
-- Fully responsive (mobile, tablet, desktop)
-- Clean and semantic HTML5
-- Modern CSS3 with Flexbox
-- No JavaScript required
-- Easy to customize
-- Cross-browser compatible
-- Well-structured and commented code
-
-## Technologies Used
-- HTML5
-- CSS3 (Flexbox)
-- Mobile-first approach
-
-## File Structure
-# Codanova - Simple Responsive Navigation Menu
-
-A clean, mobile-first navigation menu built with pure HTML5 and CSS3.  
-This template provides a simple, accessible, and responsive navigation layout without any JavaScript dependency.
-
-## Features
-- Mobile-first design
-- Fully responsive (mobile, tablet, desktop)
-- Clean and semantic HTML5
-- Modern CSS3 with Flexbox
-- No JavaScript required
-- Easy to customize
-- Cross-browser compatible
-- Well-structured and commented code
-
-## Technologies Used
-- HTML5
-- CSS3 (Flexbox)
-- Mobile-first approach
 
 ## File Structure
 ├── index.html
@@ -67,8 +26,6 @@ This template provides a simple, accessible, and responsive navigation layout wi
 ├── Developer Manual.docx
 ├── Developer Manual.pdf
 ├── Readme_Cod'A-Nova.md
-├── User Manual.docx
-├── User Manual.pdf
 ├── User Manual.docx
 └── User Manual.pdf
 
@@ -79,11 +36,7 @@ This template provides a simple, accessible, and responsive navigation layout wi
 - [Readme (PDF)](documentation/Readme.pdf)  
 - [Readme (Word)](documentation/Readme.docx)  
 - [User Manual (PDF)](documentation/User%20Manual.pdf)  
-- [User Manual (Word)](documentation/User%20Manual.docx)  
-- [User Manual1 (PDF)](documentation/User%20Manual1.pdf)  
-- [User Manual1 (Word)](documentation/User%20Manual1.docx)
-
-> Note : Les espaces dans les noms de fichiers sont remplacés par `%20` pour que GitHub crée les liens correctement.
+- [User Manual (Word)](documentation/User%20Manual.docx)
 
 ## Browser Compatibility
 Tested and compatible with:
