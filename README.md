@@ -34,7 +34,7 @@ CodA-Nova/
 ├── assets/
 │   ├── css/
 │   │   └── style.css
-│   └── prototype/
+│   └── prototypes/
 │       ├── Mobile.png
 │       └── Navbar_Desktop.png
 └── documentation/
