@@ -105,4 +105,5 @@ Tested and compatible with:
 - Prototypes: Figma
 
 ## Contact
-🔗 Connect with me on [LinkedIn](www.linkedin.com/in/abna-alexis)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abna-alexis)
+
