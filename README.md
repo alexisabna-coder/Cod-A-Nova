@@ -1,6 +1,10 @@
 
 # CodA-Nova - Simple Responsive Navigation Menu (Template 1)
 
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-mobile?logo=windowsterminal&logoColor=white)
+
 A clean, mobile-first navigation menu built with pure HTML5 and CSS3.  
 This template provides a simple, accessible, and responsive navigation layout without any JavaScript dependency.
 
@@ -72,7 +76,7 @@ Each navigation template includes a Figma prototype to visualize layout and UI b
 - [Template 1 Prototype](https://www.figma.com/design/Md488nicaxcKZXrwNCnuyw/Cod-A-Nova-Menu?node-id=26-7&t=UuuWAbCCP1yXFrxZ-0/Template-1)  
 - [Template 2 Prototype](https://www.figma.com/design/Md488nicaxcKZXrwNCnuyw/Cod-A-Nova-Menu?node-id=28-16&p=f&t=UuuWAbCCP1yXFrxZ-0/Template-2)
 
-> You can also include static screenshots in your `assets/prototype/` folder:
+> You can also include static screenshots in your `assets/prototypes/` folder:
 
 ![Mobile Prototype](assets/prototypes/Mobile.png)
 ![Desktop Navbar Prototype](assets/prototypes/Navbar_Desktop.png)
@@ -99,3 +103,7 @@ Tested and compatible with:
 ## 👤 Credits
 - Fonts: System fonts (Arial, Helvetica, sans-serif)
 - Prototypes: Figma
+
+## Contact
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abna-alexis)
+
