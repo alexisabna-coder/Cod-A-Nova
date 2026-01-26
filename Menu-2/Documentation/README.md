@@ -50,11 +50,10 @@ CodA-Nova/
 │   └── prototypes/
 │       ├── Mobile.png
 │       └── Navbar_Desktop.png
-└── documentation/
+└── Documentation/
     ├── Project_Specifications.md
     ├── User_Manual.md
     ├── Developer_Manual.md
-
 
 ---
 
@@ -77,8 +76,8 @@ CodA-Nova/
 ## 🎨 Prototype / Design
 Each navigation template includes a Figma prototype to visualize layout and UI before development:
  
-- [Template 3 Prototype](https://www.figma.com/design/Md488nicaxcKZXrwNCnuyw/Cod-A-Nova-Menu?node-id=26-7&t=UuuWAbCCP1yXFrxZ-0/Template-3)  
-- [Template 4 Prototype](https://www.figma.com/design/Md488nicaxcKZXrwNCnuyw/Cod-A-Nova-Menu?node-id=28-16&p=f&t=UuuWAbCCP1yXFrxZ-0/Template-4)
+- [Template 3 Prototype](https://www.figma.com/design/Md488nicaxcKZXrwNCnuyw/Cod-A-Nova-Menu?node-id=62-8&p=f&t=VnQk81Z2pEGeFLCG-0/Template-3)  
+- [Template 4 Prototype](https://www.figma.com/design/Md488nicaxcKZXrwNCnuyw/Cod-A-Nova-Menu?node-id=82-4&p=f&t=cx6dL8FOC2CM3nCG-0/Template-4)
 
 
 ---
